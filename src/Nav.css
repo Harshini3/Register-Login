@@ -1,0 +1,19 @@
+
+  
+
+.Nav 
+{
+    margin-top: -12px;
+    padding: 8px;
+    word-wrap: normal;
+    display: inline-block;
+    font-family: fantasy;
+    font-size: 30px;
+    margin-left: -190px;
+    background-color:floralwhite;
+
+    
+}
+.Nav:hover{
+    background-color:honeydew;
+}
